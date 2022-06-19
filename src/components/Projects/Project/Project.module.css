@@ -1,0 +1,26 @@
+.project {
+    max-width: 500px;
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.preview {
+    background-color: cadetblue;
+    height: 300px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.viewButton {
+    background-color: #d49f9f;
+    padding: 10px 20px;
+}
+
+.description {
+    text-align: center;
+}
+
